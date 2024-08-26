@@ -1,0 +1,10 @@
+database:
+  type: sqlite
+  sqlite:
+    file: "aliasip.sqlite"
+  mysql:
+    host: localhost
+    username: root
+    password: ""
+    schema: "yourschema"
+  worker-limit: 1

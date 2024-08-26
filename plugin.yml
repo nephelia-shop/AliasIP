@@ -1,0 +1,6 @@
+name: AliasIP
+main: fenomeno\AliasIP\Main
+api: 5.0.0
+version: 0.1
+author: fenomeno
+website:
